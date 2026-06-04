@@ -1,1 +1,20 @@
+Total D3 displacement over complete Hawking evaporation equals exactly the Schwarzschild radius. Five constants cancel independently: M, hbar, k_B, ln2, pi. Only G and c survive.
 
+## Files
+
+- `D3_Invariant_Paper3_Sharma_2026.pdf` — full paper with 4 figures
+- `README.md` — this file
+
+## Part of D3 Research Series
+
+| Paper | Title | DOI |
+|-------|-------|-----|
+| 1 | D3 Formula + Planck Coincidence | 10.5281/zenodo.20502578 |
+| 2 | Kerr Extension + Spin Suppression | Zenodo 2026 |
+| 3 | rs-invariant (this paper) | Zenodo 2026 |
+
+## Contact
+
+bharatsharma@phenex.ai | bsharma173860@gmail.com  
+https://github.com/bsharma173860-oss/d3-research
+EOF
