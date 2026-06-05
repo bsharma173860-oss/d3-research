@@ -1,7 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502577.svg)](https://doi.org/10.5281/zenodo.20502577) — D3 Original
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20535347.svg)](https://doi.org/10.5281/zenodo.20535347) — Kerr Extension
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20548070.svg)](https://doi.org/10.5281/zenodo.20548070) — Schwarzschild Invariant
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627) — Kerr Invariant (Unification)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627) — Kerr Invariant
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549980.svg)](https://doi.org/10.5281/zenodo.20549980) — QG Boundary (Series Complete)
 
 # Geometric Cost of Information Erasure — D3 Research Series
 
@@ -158,6 +159,42 @@ At χ=0 recovers Paper III exactly. At χ→1, R_total→0. The spin-suppression
 
 ---
 
+## Paper V — Quantum Gravity Boundary (Series Complete)
+
+**A Quantum Gravity Boundary from the D3 Framework: The Scale at Which Information Erasure Cost Exceeds the Schwarzschild Radius**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549980.svg)](https://doi.org/10.5281/zenodo.20549980)
+
+The D3 framework predicts its own breakdown at:
+
+$$M_{QG} = m_P\sqrt{\frac{\ln 2}{8\pi}} = 0.166071\, m_P$$
+
+The exact power law D3/r_s = (M_QG/M)² yields exact integers at rational mass fractions. Kerr extension: M_QG(χ) = M_QG·√(f(χ)). At χ→1, M_QG→0.
+
+| M/M_QG | D3/r_s | Regime |
+|---|---|---|
+| 0.1 | 100 | Quantum gravity |
+| 1.0 | 1 | **Boundary** |
+| 10 | 0.01 | Classical GR |
+
+📄 Full paper: [qg-boundary/](qg-boundary/)
+
+---
+
+## Complete Series Summary
+
+| Paper | Result | DOI |
+|---|---|---|
+| I | Δr_s = 2Gk_BT·ln2/c⁴ | [10.5281/zenodo.20502577](https://doi.org/10.5281/zenodo.20502577) |
+| II | f(χ) = 2√(1−χ²)/(1+√(1−χ²)) | [10.5281/zenodo.20535347](https://doi.org/10.5281/zenodo.20535347) |
+| III | R_total = r_s | [10.5281/zenodo.20548070](https://doi.org/10.5281/zenodo.20548070) |
+| IV | R_total(Kerr) = f(χ)·r_s | [10.5281/zenodo.20549627](https://doi.org/10.5281/zenodo.20549627) |
+| V | M_QG = 0.166071 m_P | [10.5281/zenodo.20549980](https://doi.org/10.5281/zenodo.20549980) |
+
+**All five results derived from one formula. All constants cancel in every proof.**
+
+---
+
 ## Relation to Prior Work
 
 This paper makes explicit a Schwarzschild-radius statement implicit in prior work:
@@ -240,6 +277,19 @@ If you are affiliated with UBC, SFU, or another BC institution and are intereste
   year    = {2026},
   doi     = {10.5281/zenodo.20549627},
   url     = {https://doi.org/10.5281/zenodo.20549627},
+  note    = {PhenexAI Research, Vancouver}
+}
+```
+
+**Paper V — QG Boundary:**
+```bibtex
+@article{sharma2026qgboundary,
+  title   = {A Quantum Gravity Boundary from the D3 Framework},
+  author  = {Sharma, Bharat},
+  journal = {Zenodo},
+  year    = {2026},
+  doi     = {10.5281/zenodo.20549980},
+  url     = {https://doi.org/10.5281/zenodo.20549980},
   note    = {PhenexAI Research, Vancouver}
 }
 ```
