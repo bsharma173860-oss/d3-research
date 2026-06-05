@@ -2,7 +2,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20535347.svg)](https://doi.org/10.5281/zenodo.20535347) — Kerr Extension
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20548070.svg)](https://doi.org/10.5281/zenodo.20548070) — Schwarzschild Invariant
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627) — Kerr Invariant
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549980.svg)](https://doi.org/10.5281/zenodo.20549980) — QG Boundary (Series Complete)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549980.svg)](https://doi.org/10.5281/zenodo.20549980) — QG Boundary
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20561229.svg)](https://doi.org/10.5281/zenodo.20561229) — RN Charge Suppression
 
 # Geometric Cost of Information Erasure — D3 Research Series
 
@@ -190,8 +191,9 @@ The exact power law D3/r_s = (M_QG/M)² yields exact integers at rational mass f
 | III | R_total = r_s | [10.5281/zenodo.20548070](https://doi.org/10.5281/zenodo.20548070) |
 | IV | R_total(Kerr) = f(χ)·r_s | [10.5281/zenodo.20549627](https://doi.org/10.5281/zenodo.20549627) |
 | V | M_QG = 0.166071 m_P | [10.5281/zenodo.20549980](https://doi.org/10.5281/zenodo.20549980) |
+| VI | g(q) = 4√(1−q²)/(1+√(1−q²))² | [10.5281/zenodo.20561229](https://doi.org/10.5281/zenodo.20561229) |
 
-**All five results derived from one formula. All constants cancel in every proof.**
+**All six results derived from one formula. All constants cancel in every proof. Paper VII (Kerr-Newman) coming.**
 
 ---
 
