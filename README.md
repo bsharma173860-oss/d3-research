@@ -4,6 +4,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627) — Kerr Invariant
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549980.svg)](https://doi.org/10.5281/zenodo.20549980) — QG Boundary
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20561229.svg)](https://doi.org/10.5281/zenodo.20561229) — RN Charge Suppression
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20563756.svg)](https://doi.org/10.5281/zenodo.20563756) — KN Master Formula (Series Complete)
 
 # Geometric Cost of Information Erasure — D3 Research Series
 
@@ -186,14 +187,15 @@ The exact power law D3/r_s = (M_QG/M)² yields exact integers at rational mass f
 
 | Paper | Result | DOI |
 |---|---|---|
-| I | Δr_s = 2Gk_BT·ln2/c⁴ | [10.5281/zenodo.20502577](https://doi.org/10.5281/zenodo.20502577) |
-| II | f(χ) = 2√(1−χ²)/(1+√(1−χ²)) | [10.5281/zenodo.20535347](https://doi.org/10.5281/zenodo.20535347) |
-| III | R_total = r_s | [10.5281/zenodo.20548070](https://doi.org/10.5281/zenodo.20548070) |
-| IV | R_total(Kerr) = f(χ)·r_s | [10.5281/zenodo.20549627](https://doi.org/10.5281/zenodo.20549627) |
-| V | M_QG = 0.166071 m_P | [10.5281/zenodo.20549980](https://doi.org/10.5281/zenodo.20549980) |
-| VI | g(q) = 4√(1−q²)/(1+√(1−q²))² | [10.5281/zenodo.20561229](https://doi.org/10.5281/zenodo.20561229) |
+| I | Δr_s = 2Gk_BT·ln2/c⁴ + Planck coincidence | [zenodo.20502577](https://doi.org/10.5281/zenodo.20502577) |
+| II | f(χ) = 2√(1−χ²)/(1+√(1−χ²)) | [zenodo.20535347](https://doi.org/10.5281/zenodo.20535347) |
+| III | R_total = r_s | [zenodo.20548070](https://doi.org/10.5281/zenodo.20548070) |
+| IV | R_total(Kerr) = f(χ)·r_s | [zenodo.20549627](https://doi.org/10.5281/zenodo.20549627) |
+| V | M_QG = 0.166071 m_P | [zenodo.20549980](https://doi.org/10.5281/zenodo.20549980) |
+| VI | g(q) = 4√(1−q²)/(1+√(1−q²))² | [zenodo.20561229](https://doi.org/10.5281/zenodo.20561229) |
+| **VII** | **h(χ,q) = 4σ/(2(1+σ)−q²) — Master Formula** | [zenodo.20563756](https://doi.org/10.5281/zenodo.20563756) |
 
-**All six results derived from one formula. All constants cancel in every proof. Paper VII (Kerr-Newman) coming.**
+**7 papers. 7 DOIs. One formula. All black holes in 4D GR. Series complete.**
 
 ---
 
