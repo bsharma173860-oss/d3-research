@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502577.svg)](https://doi.org/10.5281/zenodo.20502577) — D3 Original
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20535347.svg)](https://doi.org/10.5281/zenodo.20535347) — Kerr Extension
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20548070.svg)](https://doi.org/10.5281/zenodo.20548070) — Invariant (Paper III)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20548070.svg)](https://doi.org/10.5281/zenodo.20548070) — Schwarzschild Invariant
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627) — Kerr Invariant (Unification)
 
 # Geometric Cost of Information Erasure — D3 Research Series
 
@@ -135,6 +136,28 @@ is constant across all masses, temperatures, and times. Verified across 24 decad
 
 ---
 
+## Paper IV — Kerr Invariant (Unification)
+
+**Spin-Suppressed Evaporation Invariant: Total D3 Displacement for Kerr Black Holes and Unification of the D3 Research Series**
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627)
+
+Unifies all four papers into one identity:
+
+$$R_{\text{total}}(\text{Kerr}) = f(\chi) \cdot r_s(M_0)$$
+
+At χ=0 recovers Paper III exactly. At χ→1, R_total→0. The spin-suppression factor f(χ) from Paper II operates at both the per-bit and global level with exactly the same formula.
+
+| Black Hole | χ | f(χ) | R_total |
+|---|---|---|---|
+| GW150914 | 0.67 | 0.852 | 0.852 × r_s |
+| GRS 1915+105 | 0.98 | 0.332 | 0.332 × r_s |
+| Sgr A* | 0.90 | 0.607 | 0.607 × r_s |
+
+📄 Full paper: [kerr-invariant/](kerr-invariant/)
+
+---
+
 ## Relation to Prior Work
 
 This paper makes explicit a Schwarzschild-radius statement implicit in prior work:
@@ -203,6 +226,20 @@ If you are affiliated with UBC, SFU, or another BC institution and are intereste
   year    = {2026},
   doi     = {10.5281/zenodo.20548070},
   url     = {https://doi.org/10.5281/zenodo.20548070},
+  note    = {PhenexAI Research, Vancouver}
+}
+```
+
+**Paper IV — Kerr Invariant (Unification):**
+```bibtex
+@article{sharma2026kerrInvariant,
+  title   = {Spin-Suppressed Evaporation Invariant: Total D3 Displacement
+             for Kerr Black Holes and Unification of the D3 Research Series},
+  author  = {Sharma, Bharat},
+  journal = {Zenodo},
+  year    = {2026},
+  doi     = {10.5281/zenodo.20549627},
+  url     = {https://doi.org/10.5281/zenodo.20549627},
   note    = {PhenexAI Research, Vancouver}
 }
 ```
