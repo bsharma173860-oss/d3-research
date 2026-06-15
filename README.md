@@ -49,7 +49,7 @@ Expected:  2 * ln(2)             =  1.386294
 
 | Physical Context | Temperature [K] | Δr_s [m/bit] | Δr_s / ℓ_P |
 |---|---|---|---|
-| Cosmic microwave background | 2.725 | 4.31 × 10⁻⁶⁶ | 2.67 × 10⁻³¹ |
+| Cosmic microwave background | 2.725 | 4.31 × 10⁻⁶⁷ | 2.67 × 10⁻³² |
 | Room temperature | 300 | 4.74 × 10⁻⁶⁵ | 2.93 × 10⁻³⁰ |
 | Human body temperature | 310 | 4.90 × 10⁻⁶⁵ | 3.03 × 10⁻³⁰ |
 | Hawking temp. (solar mass) | 6.17 × 10⁻⁸ | 9.75 × 10⁻⁷⁵ | 6.03 × 10⁻⁴⁰ |
@@ -63,7 +63,7 @@ Expected:  2 * ln(2)             =  1.386294
 ```
 d3-research/
 ├── paper/
-│   └── D3_Paper_Final_v5_Sharma_2026.pdf   # Submitted manuscript
+│   └── D3_Paper_Final_v6_Sharma_2026.pdf   # Submitted manuscript
 ├── figures/
 │   ├── fig1_derivation_flow.png             # Three-step derivation diagram
 │   ├── fig2_dr_vs_T.png                     # Delta-r_s vs temperature (log-log)
