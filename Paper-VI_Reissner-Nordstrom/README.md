@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded — corrected
+> Original note VI, kept for the record. The charge-suppression factor **g(q)** was an artifact of using the Schwarzschild bit-count for a charged hole. Corrected statement: **R_total = r_h**, with g(q) a Hawking-temperature ratio. See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20561229.svg)](https://doi.org/10.5281/zenodo.20561229)
 
 # Charge-Suppressed Information-Geometry in Reissner-Nordström Black Holes

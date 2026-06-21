@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded
+> Original note V, kept for the record. Superseded by the consolidated treatment of the evaporation invariant. See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549980.svg)](https://doi.org/10.5281/zenodo.20549980)
 
 # A Quantum Gravity Boundary from the D3 Framework

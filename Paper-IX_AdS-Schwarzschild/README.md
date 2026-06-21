@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded
+> Original note IX, kept for the record. Superseded by the consolidated treatment (which folds the AdS case into one generalisation section). See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20567233.svg)](https://doi.org/10.5281/zenodo.20567233)
 
 # Information-Geometry of AdS-Schwarzschild Black Holes

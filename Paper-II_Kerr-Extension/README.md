@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded — corrected
+> Original note II of the D3 nine-paper series, kept for the record. The spin-suppression factor **f(χ)** was an artifact of pairing the Kerr temperature ratio with the *Schwarzschild* bit-count. Corrected statement: **R_total = r_h** (the actual outer-horizon radius), with f(χ) reinterpreted as a ratio of Hawking temperatures. See [`../ERRATA.md`](../ERRATA.md) and the corrected [`../consolidated/`](../consolidated/) paper.
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20535347.svg)](https://doi.org/10.5281/zenodo.20535347)
 
 # Kerr Extension of the D3 Formula

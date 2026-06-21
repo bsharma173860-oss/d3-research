@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded
+> Original note III, kept for the record. The result **R_total = r_s** is correct; in the consolidated paper it is re-derived directly from the first law of black-hole mechanics and framed as an exact identity rather than new dynamics. See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20548070.svg)](https://doi.org/10.5281/zenodo.20548070)
 
 # The Schwarzschild Radius as an Information-Geometry Invariant

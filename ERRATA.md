@@ -1,7 +1,6 @@
 # Errata and Consolidation Notice
 
-The D3 research series originally comprised nine separate notes (archived under
-[`superseded/`](superseded/) and on Zenodo). Following a full internal
+The D3 research series originally comprised nine separate notes (kept in their own per-paper folders (see the index in the [README](README.md)) and on Zenodo). Following a full internal
 re-verification, the series has been **consolidated into two corrected papers**
 and several errors in the original notes have been corrected. This document
 records those corrections transparently; the Zenodo records remain citable, and
@@ -9,7 +8,7 @@ corrected/superseding versions are being issued there.
 
 ## Current canonical papers
 
-1. **Paper I — Geometric Cost of Information Erasure** ([`D3_paper/`](D3_paper/))
+1. **Paper I — Geometric Cost of Information Erasure** ([`Paper-I_Information-Erasure-Cost/`](Paper-I_Information-Erasure-Cost/))
    The per-bit result Δr_s = 2G·k_B·T·ln2/c⁴ and the Planck-scale identity.
 2. **Consolidated paper — The Evaporation Invariant and its Generalisations**
    ([`consolidated/`](consolidated/)) — the total-displacement result

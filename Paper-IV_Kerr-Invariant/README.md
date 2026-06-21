@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded — corrected
+> Original note IV, kept for the record. As with note II, the **f(χ)** "R_total = f(χ)·r_s" result was an artifact of using the Schwarzschild bit-count for a spinning hole. Corrected statement: **R_total = r_h**, with f(χ) a Hawking-temperature ratio. See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20549627.svg)](https://doi.org/10.5281/zenodo.20549627)
 
 # Spin-Suppressed Evaporation Invariant

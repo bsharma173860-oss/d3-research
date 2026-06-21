@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded — corrected
+> Original note VIII, kept for the record. The "constant integrand" proof holds only in d = 4; for d > 4, r_h ∝ M^{1/(d−3)}, so the integrand is not constant. The result **R_total = r_h(d)** is correct, but follows from the first law, not from a mass-independent integrand. See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20564313.svg)](https://doi.org/10.5281/zenodo.20564313)
 
 # The D3 Evaporation Invariant in All Spacetime Dimensions

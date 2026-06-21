@@ -1,3 +1,8 @@
+> ## ⚠️ Status: superseded — corrected
+> Original note VII (capstone), kept for the record. The Kerr–Newman master factor **h(χ,q)** was an artifact of pairing the KN temperature ratio with the Schwarzschild bit-count. Corrected statement: **R_total = r_h**, with h(χ,q) a ratio of Hawking temperatures. See [`../ERRATA.md`](../ERRATA.md) and [`../consolidated/`](../consolidated/).
+
+---
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20563756.svg)](https://doi.org/10.5281/zenodo.20563756)
 
 # The Kerr-Newman Information-Geometry Master Formula
